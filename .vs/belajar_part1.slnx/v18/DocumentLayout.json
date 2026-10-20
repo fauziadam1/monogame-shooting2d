@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\coding\\VisualStudio\\belajar_part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDAE37-E841-2B08-524D-7497D13BD447}|belajar_part1\\belajar_part1.csproj|c:\\coding\\visualstudio\\belajar_part1\\belajar_part1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADDAE37-E841-2B08-524D-7497D13BD447}|belajar_part1\\belajar_part1.csproj|solutionrelative:belajar_part1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\coding\\VisualStudio\\belajar_part1\\belajar_part1\\Game1.cs",
+              "RelativeDocumentMoniker": "belajar_part1\\Game1.cs",
+              "ToolTip": "C:\\coding\\VisualStudio\\belajar_part1\\belajar_part1\\Game1.cs",
+              "RelativeToolTip": "belajar_part1\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:31:57.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/coding/VisualStudio/belajar_part1/belajar_part1/Content/galleryFont.spritefont</SourceFile>
+  <SourceTime>2017-11-18T14:07:30+07:00</SourceTime>
+  <DestFile>C:/coding/VisualStudio/belajar_part1/belajar_part1/Content/bin/DesktopGL/Content/galleryFont.xnb</DestFile>
+  <DestTime>2026-10-20T13:39:24.498889+07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2026-10-08T18:48:48+07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2026-10-08T18:48:48+07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Version</Key>
+    <Value>3.8.6.0</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
